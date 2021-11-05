@@ -14,7 +14,7 @@ public class HeyGuys {
 
         //TODO : HADI ALSINAN
         System.out.println("Hey guys, hadi here and welcome to a new minecraft video");
-        
+        // showing people how to use github
 
         //TODO : ALI ALHERZ
 
@@ -22,4 +22,5 @@ public class HeyGuys {
         //TODO : Serat :)
         System.out.println("Hello, I'm Serat and I hate vscode");
     }
+    
 }
