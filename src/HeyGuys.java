@@ -20,6 +20,6 @@ public class HeyGuys {
 
 
         //TODO : Serat :)
-
+        System.out.println("Hello, IDK how you guys do things but as long as it works");
     }
 }
