@@ -12,7 +12,7 @@ public class HeyGuys {
         System.out.println("\uD83C\uDF1A");
 
 
-        //TODO : HADI AKSAIAN
+        //TODO : HADI ALSINAN
 
 
         //TODO : ALI ALHERZ
