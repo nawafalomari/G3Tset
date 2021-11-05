@@ -13,7 +13,8 @@ public class HeyGuys {
 
 
         //TODO : HADI ALSINAN
-
+        System.out.println("Hey guys, hadi here and welcome to a new minecraft video");
+        
 
         //TODO : ALI ALHERZ
 
