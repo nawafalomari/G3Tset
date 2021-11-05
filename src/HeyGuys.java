@@ -9,6 +9,7 @@ public class HeyGuys {
         System.out.println("Hello y3yal, asmy Hadi w A7b El 7m9'yaaaaaaaaaaat, w a7bkm shwe b3d, yla bye :)");
         System.out.println("ارسلوا له رابط ٢٠٢١ بالله ");
         System.out.println("Hadi Joined.");
+        System.out.println("\uD83C\uDF1A");
 
 
         //TODO : HADI AKSAIAN
