@@ -8,6 +8,7 @@ public class HeyGuys {
         //TODO : HADI MARZOOQ
         System.out.println("Hello y3yal, asmy Hadi w A7b El 7m9'yaaaaaaaaaaat, w a7bkm shwe b3d, yla bye :)");
         System.out.println("ارسلوا له رابط ٢٠٢١ بالله ");
+        System.out.println("Hadi Joined.");
 
 
         //TODO : HADI AKSAIAN
