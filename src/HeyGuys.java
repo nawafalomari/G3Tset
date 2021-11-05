@@ -20,6 +20,6 @@ public class HeyGuys {
 
 
         //TODO : Serat :)
-        System.out.println("Hello, I'm Serat and I hate vscode")
+        System.out.println("Hello, I'm Serat and I hate vscode");
     }
 }
