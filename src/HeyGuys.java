@@ -14,7 +14,7 @@ public class HeyGuys {
         //TODO : ALI ALHERZ
 
 
-        //TODO : for(;;;) :)
+        //TODO : Serat :)
 
     }
 }
